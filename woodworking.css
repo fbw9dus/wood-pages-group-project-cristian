@@ -1,0 +1,37 @@
+body{
+    background-color: beige;
+    margin: 5%;
+}
+.image1{
+    border:5px solid black;
+    border-radius: 2px 44px 33px;
+    border-color:rgb(50,50,50);
+
+}
+ul{
+    border:5px solid black;
+    border-radius: 2px 44px 33px;
+    border-color: rgb(103, 121, 120);
+
+}
+.cont.tools1{
+    border:5px solid black;
+    border-radius: 25px 25px 5px;
+    padding-left: 30px;
+    border-color: rgb(23, 52, 56);
+
+}
+.image2{
+    border:5px solid rgb(6, 6, 44);
+    border-radius: 2px 44px 33px;
+
+}
+.cont.tools2{
+    border:5px solid rgb(57, 102, 110);
+    border-radius: 30px 25px 5px;
+    padding-left: 30px;
+}
+a:hover {
+    text-decoration: none;
+
+}
