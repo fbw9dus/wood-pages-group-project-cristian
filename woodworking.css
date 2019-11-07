@@ -14,7 +14,7 @@ ul{
     border-color: rgb(103, 121, 120);
 
 }
-.cont.tools1{
+.cont.tools.style{
     border:5px solid black;
     border-radius: 25px 25px 5px;
     padding-left: 30px;
@@ -26,7 +26,7 @@ ul{
     border-radius: 2px 44px 33px;
 
 }
-.cont.tools2{
+.cont.tools.wood{
     border:5px solid rgb(57, 102, 110);
     border-radius: 30px 25px 5px;
     padding-left: 30px;
